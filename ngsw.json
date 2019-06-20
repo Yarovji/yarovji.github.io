@@ -1,0 +1,129 @@
+{
+  "configVersion": 1,
+  "timestamp": 1561011449598,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/10.280f629b8a0bf7395da2.js",
+        "/11.b7291a5352e1e0f357e3.js",
+        "/12.a7601ffd45dc915fa3f6.js",
+        "/13.512e14ee6a430f2dd82f.js",
+        "/14.5ac34afbe0600c19b124.js",
+        "/15.f617c72fcd3533a1a53c.js",
+        "/2.18ab50770f150d740844.js",
+        "/3.7444e9eaa333ca1d28b0.js",
+        "/4.3145495361af029cc820.js",
+        "/common.967934941a7c4578fdde.js",
+        "/es2015-polyfills.f67889ade8c31f4896b1.js",
+        "/favicon.ico",
+        "/index.html",
+        "/lazy-fonts.js",
+        "/main.dcd26170b9c7b3e657d1.js",
+        "/manifest.json",
+        "/pdfjsWorker.975a4f03df8238c418b7.js",
+        "/polyfills.a6396704da3f52d29ef2.js",
+        "/runtime.6c546df0f9550eef3837.js",
+        "/styles.3bfe1f76328b3293855b.css"
+      ],
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/icon\\?family=Material\\+Icons",
+        "https:\\/\\/fonts\\.googleapis\\.com\\/css\\?family=Roboto"
+      ]
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/background-login.jpg",
+        "/assets/catholic-school-logo.png",
+        "/assets/default-avatar.svg",
+        "/assets/download.gif",
+        "/assets/favicon.ico",
+        "/assets/file-pdf-regular.svg",
+        "/assets/icon-hd.png",
+        "/assets/icon.png",
+        "/assets/touch-icon-ipad-pro.png",
+        "/assets/touch-icon-ipad-retina.png",
+        "/assets/touch-icon-ipad.png",
+        "/assets/touch-icon-iphone-6-plus.png",
+        "/assets/touch-icon-iphone-retina.png",
+        "/assets/touch-icon-iphone.png",
+        "/background-login.0501411d12736c91016b.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "api-freshness",
+      "patterns": [
+        "http:\\/\\/35\\.228\\.220\\.5:8080\\/[^/]*"
+      ],
+      "strategy": "freshness",
+      "maxSize": 100,
+      "maxAge": 3600000,
+      "timeoutMs": 10000,
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "/10.280f629b8a0bf7395da2.js": "d6de05430e789f10529663893fe49f6c1ef32b1d",
+    "/11.b7291a5352e1e0f357e3.js": "449e24ac8817335be60e6d6fc5114a504c098028",
+    "/12.a7601ffd45dc915fa3f6.js": "6da982d082decafa3b0fb18d94203988f52bcb29",
+    "/13.512e14ee6a430f2dd82f.js": "c4f839de88dc686d4c3f75523f6dbf8c726cfd3e",
+    "/14.5ac34afbe0600c19b124.js": "2e6f9a772f30d8da0d2bc0f2f3c79f0744e36ff3",
+    "/15.f617c72fcd3533a1a53c.js": "55d5286489b8c3144966e6dc3194b7c8e7a9217e",
+    "/2.18ab50770f150d740844.js": "8631c9ec608235d10d112688ccce55ae5224c607",
+    "/3.7444e9eaa333ca1d28b0.js": "3cf95b6a85fee93755ca1a99a86568fb397b9977",
+    "/4.3145495361af029cc820.js": "12a722ad8dffcae6b1c9bae695aa953b84af6f2e",
+    "/assets/background-login.jpg": "92b84572f8cb5f094e237e3e6e88e5ed969a92ea",
+    "/assets/catholic-school-logo.png": "6b8534ec5e56ece4afa6cc3f324fbcdf16ce637b",
+    "/assets/default-avatar.svg": "63d6cea045838b7c37bc973b00dca4f7563942df",
+    "/assets/download.gif": "8f6f9c4c78ca87f21762bc8d9cc1a1c3ab1d120c",
+    "/assets/favicon.ico": "2f9aae8c617770f9266d26bbc898b6942ab64863",
+    "/assets/file-pdf-regular.svg": "374a053d9469d7148e9c5c20e96500e2ea8591d6",
+    "/assets/icon-hd.png": "333a0c9fa323fb816d3aea6fbac8a1fb98771e8c",
+    "/assets/icon.png": "abf55217f1af898a9518b0aa54f49a0797a6669e",
+    "/assets/touch-icon-ipad-pro.png": "e2744180b43905ab453424f56c1b94e770d78936",
+    "/assets/touch-icon-ipad-retina.png": "69c755a72356e29d4440d1daaaa9ac71be93dc6c",
+    "/assets/touch-icon-ipad.png": "b28365eb35156029110649272129b0d52f0a6312",
+    "/assets/touch-icon-iphone-6-plus.png": "4665bffbcf4919332f3974a022860dfea11a3271",
+    "/assets/touch-icon-iphone-retina.png": "633720b66bffe538809af514a3b688f5a2a89dec",
+    "/assets/touch-icon-iphone.png": "4b27fb8d7e72526a6f73a148d45fac5295ba8258",
+    "/background-login.0501411d12736c91016b.jpg": "92b84572f8cb5f094e237e3e6e88e5ed969a92ea",
+    "/common.967934941a7c4578fdde.js": "7f60ae383a2ac5c425c00916781026daa0cacf63",
+    "/es2015-polyfills.f67889ade8c31f4896b1.js": "2d7079b3706ddc74a779bb1b77588e40c73e5201",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/index.html": "705368e041592ac14f447422e50c1e9f09e6aa16",
+    "/lazy-fonts.js": "14bd5ad57e80051e33812406c0d900164270b8f9",
+    "/main.dcd26170b9c7b3e657d1.js": "2247d2972b479e97b9b79c6cb0baff71d5a04c96",
+    "/manifest.json": "49bd6a248dedc127ee4e30d0c27edd3b9653fc76",
+    "/pdfjsWorker.975a4f03df8238c418b7.js": "ddab987554cdcd63f65f443e09d477e9f6be7b3e",
+    "/polyfills.a6396704da3f52d29ef2.js": "333d4d6045d3184d1a31274f1f9cd583f7301c97",
+    "/runtime.6c546df0f9550eef3837.js": "28bde5a28dfb394951a07f5613d007ac1beb9376",
+    "/styles.3bfe1f76328b3293855b.css": "c7f03afeae6569157cf0ca75559c968ec6503976"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
